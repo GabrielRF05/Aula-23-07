@@ -11,4 +11,22 @@ h2{
     border: solid black 1px;
     padding: 30px;
     margin: 50px;
+    box-shadow: 10px 10px 5px;
+    
+}
+
+#cru{
+    color: royalblue;
+}
+
+#cam{
+    color: black;
+}
+
+#ame{
+    color: green;
+}
+
+.imagem-time{
+    width: 100px;
 }
